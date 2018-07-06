@@ -1,2 +1,3 @@
 # Ignore all the SQLite databases
+# Test comment
 Db/*.sqlite3
